@@ -20,7 +20,9 @@ class Wizard(val name: String, var mana: Int, var spellPower: Int) {
             }
         }
     }
+
+    fun restoreMana(amount: Int) {
+
+    }
 }
 // Adding a new comment
-
-fun restoreMana(amount: Int) { }
